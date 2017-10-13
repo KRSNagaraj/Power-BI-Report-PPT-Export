@@ -1,0 +1,30 @@
+﻿@model  PBI_PPT_Export.Models.PPTExportConfig
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="buttonsWrapper">
+    Enter Report Name to Export PPT.<br /><br />
+
+    @using (Html.BeginForm())
+    {
+        <div class="editor-field">
+            @Html.EditorFor(model => model.PBIReportName)
+        </div>
+
+        <br />
+        <div id="buttonsWrapper">
+            <input type="submit" value="PPTExport" />
+        </div>
+            <br />
+            <div class="errorBox">
+                @Html.ValueFor(model => model.ErrorMessage)
+    <br />
+            </div>
+    }
+    
+            <div class="infoBox">
+                <b>This solution uses power bi cookie to generate the token for ppt export</b><br />
+                  Microsoft.PowerBI.JavaScript Version 2.3.1<br />
+            </div>
+        </div>

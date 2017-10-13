@@ -1,0 +1,67 @@
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\ApplicationInsights.config
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\csc.exe
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\csc.exe.config
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\csc.rsp
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\csi.exe
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\csi.rsp
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\System.AppContext.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\System.Collections.Immutable.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\System.IO.FileSystem.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\System.Reflection.Metadata.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\vbc.exe
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\vbc.exe.config
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\vbc.rsp
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\VBCSCompiler.exe
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\roslyn\VBCSCompiler.exe.config
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\PBI PPT Export.dll.config
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\PBI PPT Export.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\PBI PPT Export.pdb
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Antlr3.Runtime.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.AI.DependencyCollector.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.AI.Web.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.AI.WindowsServer.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.ApplicationInsights.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.Web.Infrastructure.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Newtonsoft.Json.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.Helpers.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.Mvc.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.Optimization.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.Razor.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.WebPages.Deployment.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.WebPages.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.WebPages.Razor.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\WebGrease.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.Helpers.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.Mvc.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.Optimization.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.Razor.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.WebPages.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.WebPages.Deployment.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\System.Web.WebPages.Razor.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Antlr3.Runtime.pdb
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Newtonsoft.Json.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.ApplicationInsights.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.AI.DependencyCollector.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.AI.WindowsServer.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\bin\Microsoft.AI.Web.xml
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\obj\Debug\PBI PPT Export.csprojResolveAssemblyReference.cache
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\obj\Debug\PBI PPT Export.dll
+E:\Work\delete\pbi\web-request-01\PBI PPT Export\obj\Debug\PBI PPT Export.pdb

@@ -1,0 +1,11 @@
+Host: powerbi.microsoft.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:56.0) Gecko/20100101 Firefox/56.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+X-Requested-With: XMLHttpRequest
+Referer: https://powerbi.microsoft.com/en-us/landing/signin/?ru=https%3A%2F%2Fapp.powerbi.com%2F%3FnoSignUpCheck%3D1
+Cookie: ASP.NET_SessionId=lks0e0hpy41dc523hlqchlsb; userInfo={"guid":"4aab6d3d-907a-49dd-9427-e77342a6ef53"}; _userGeoInfoCookie=india; __RequestVerificationToken=nYrpuqGVyOP4KvqCwO4OWPjQqsEPbb-I-7YSW15A9hiXyZBwVPGJD2hJUGivukwAr5LxSiX6YKoWVSQdRUBIXOBLCo8Lo3e2O0bZtDiGiTWzrpOX5dnFr9EHho9Fwe1wYImGh587pKEvEqlzc7A2_g2; MSFPC=ID=110cbc3f9bcd5f4cba0a8bd5cbfa1a7a&CS=1&LV=201710&V=1; wcsid=JIYDj3SMNm9Hg7zr4j8JK0J0yKkj1A16; hblid=47lhfG9GFZ3wUJmw4j8JK0J0u0j11okA; _oklv=1507721264979%2CJIYDj3SMNm9Hg7zr4j8JK0J0yKkj1A16; _okdetect=%7B%22token%22%3A%2215077210856200%22%2C%22proto%22%3A%22https%3A%22%2C%22host%22%3A%22powerbi.microsoft.com%22%7D; olfsk=olfsk1691767352370852; _okbk=cd4%3Dtrue%2Cvi5%3D0%2Cvi4%3D1507721086418%2Cvi3%3Dactive%2Cvi2%3Dfalse%2Cvi1%3Dfalse%2Ccd8%3Dchat%2Ccd6%3D0%2Ccd5%3Daway%2Ccd3%3Dfalse%2Ccd2%3D0%2Ccd1%3D0%2C; _ok=8335-828-10-8454
+DNT: 1
+Connection: keep-alive
+Content-Length: 0

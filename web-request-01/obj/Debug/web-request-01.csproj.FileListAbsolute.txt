@@ -1,0 +1,6 @@
+E:\Work\delete\pbi\web-request-01\web-request-01\bin\Debug\web-request-01.exe.config
+E:\Work\delete\pbi\web-request-01\web-request-01\bin\Debug\web-request-01.exe
+E:\Work\delete\pbi\web-request-01\web-request-01\bin\Debug\web-request-01.pdb
+E:\Work\delete\pbi\web-request-01\web-request-01\obj\Debug\web-request-01.csprojResolveAssemblyReference.cache
+E:\Work\delete\pbi\web-request-01\web-request-01\obj\Debug\web-request-01.exe
+E:\Work\delete\pbi\web-request-01\web-request-01\obj\Debug\web-request-01.pdb

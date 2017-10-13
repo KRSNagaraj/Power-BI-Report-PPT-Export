@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web-request-01", "web-request-01\web-request-01.csproj", "{F68073BD-14CB-4A1E-B88A-99AD4517DF81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBI PPT Export", "PBI PPT Export\PBI PPT Export.csproj", "{9FF0CA2C-D2DF-47D6-8D99-6C00FCBF86C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68073BD-14CB-4A1E-B88A-99AD4517DF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68073BD-14CB-4A1E-B88A-99AD4517DF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68073BD-14CB-4A1E-B88A-99AD4517DF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68073BD-14CB-4A1E-B88A-99AD4517DF81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FF0CA2C-D2DF-47D6-8D99-6C00FCBF86C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF0CA2C-D2DF-47D6-8D99-6C00FCBF86C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF0CA2C-D2DF-47D6-8D99-6C00FCBF86C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF0CA2C-D2DF-47D6-8D99-6C00FCBF86C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
